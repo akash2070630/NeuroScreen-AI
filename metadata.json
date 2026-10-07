@@ -1,0 +1,9 @@
+{
+  "name": "NeuroScreen AI",
+  "description": "Multimodal Smartphone-Based Neuromuscular Risk Screening and Explainable AI Platform",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
